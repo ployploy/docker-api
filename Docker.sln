@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{40B7B069-D91B-4479-B3BC-DDB159F907EC}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1662BB12-A0D8-4F12-BECD-69AFF89D6865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B7B069-D91B-4479-B3BC-DDB159F907EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40B7B069-D91B-4479-B3BC-DDB159F907EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{40B7B069-D91B-4479-B3BC-DDB159F907EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{40B7B069-D91B-4479-B3BC-DDB159F907EC}.Release|x86.Build.0 = Release|Any CPU
+		{1662BB12-A0D8-4F12-BECD-69AFF89D6865}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1662BB12-A0D8-4F12-BECD-69AFF89D6865}.Debug|x86.Build.0 = Debug|Any CPU
+		{1662BB12-A0D8-4F12-BECD-69AFF89D6865}.Release|x86.ActiveCfg = Release|Any CPU
+		{1662BB12-A0D8-4F12-BECD-69AFF89D6865}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
